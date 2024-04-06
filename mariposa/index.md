@@ -1,6 +1,6 @@
 ---
-title: Welcome Mariposa Quartz
+title: Mariposa
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a blank document but I don't know how this work
+
