@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+  
+
+  
+  
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
+
+<div class="embed-container"><small><a href="//mhespenheide.maps.arcgis.com/apps/Embed/index.html?webmap=06d7219728fc43efb37e42f951a6f6d1&extent=-137.9802,16.1436,-52.4626,55.0863&zoom=true&scale=true&legend=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Capital Improvement Notes" src="//mhespenheide.maps.arcgis.com/apps/Embed/index.html?webmap=06d7219728fc43efb37e42f951a6f6d1&extent=-137.9802,16.1436,-52.4626,55.0863&zoom=true&previewImage=false&scale=true&legend=true&disable_scroll=true&theme=light"></iframe></div>
 </body>
 </html>
