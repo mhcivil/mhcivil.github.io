@@ -1,6 +1,7 @@
----
-title: Mariposa
----
-
-This is a blank document but I don't know how this work
-
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
